@@ -1,9 +1,8 @@
-3. Lithium
-========
+This website is made with 3. Lithium
+========================================
 
 HTML5 One Page Template. Responsive. Built using Grunt, CoffeeScript and SCSS.
 ***
-[Visit Demo Site](http://owldesign.github.io/3.-Lithium/)
 
 Github won't allow php files to run, so the subscribe form will not work unless you drop it on your own server.
 ***
